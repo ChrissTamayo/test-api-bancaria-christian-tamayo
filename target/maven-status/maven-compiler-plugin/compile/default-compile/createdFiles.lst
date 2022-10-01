@@ -1,0 +1,15 @@
+com\ctamayo\banca\jpa\ClienteRepository.class
+com\ctamayo\banca\jpa\CuentaRepository.class
+com\ctamayo\banca\cliente\ClienteJpaResource.class
+com\ctamayo\banca\controller\ProductoController.class
+com\ctamayo\banca\cuenta\CuentaJpaResource.class
+com\ctamayo\banca\cliente\UserNotFoundException.class
+com\ctamayo\banca\excepcion\ManejadorEntidadRespuestaExcepcionCustomizada.class
+com\ctamayo\banca\cuenta\Cuenta.class
+com\ctamayo\banca\cliente\ClienteResource.class
+com\ctamayo\banca\persona\Persona.class
+com\ctamayo\banca\cuenta\CuentaNotFoundException.class
+com\ctamayo\banca\ProductosApplication.class
+com\ctamayo\banca\cliente\Cliente.class
+com\ctamayo\banca\excepcion\DetallesError.class
+com\ctamayo\banca\cliente\ClienteDaoService.class
